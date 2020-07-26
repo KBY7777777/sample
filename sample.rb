@@ -1,9 +1,12 @@
 def hello
 
-  #応用カリNo73の実演にて、Gitの変更更新確認のため、rbファイルを下記コードに書き換え
   # p "hello, world."
 
-  p "hello, Git."
+  #応用カリNo73の実演にて、Gitの変更更新確認のため、rbファイルを下記コードに書き換え
+  # p "hello, Git."
+
+  #応用カリNo74の実演にて、さらに下記のとおり書き換え
+  p "hello, GitHub."
 
 end
 
